@@ -2,6 +2,7 @@
 
 1. This part about fish
 2. This part about lions
+3. Make the lions fish for fish
 
 ## Instructions
 
