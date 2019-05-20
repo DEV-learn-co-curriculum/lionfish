@@ -5,7 +5,7 @@
 
 ## Instructions
 
-Make the tests pass.
+Make the lionfish.
 
 ### Part 1: Do Some Stuff
 
