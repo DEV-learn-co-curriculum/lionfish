@@ -7,7 +7,7 @@
 
 Make the lionfish.
 
-### Part 1: Do Some Stuff
+### Part 1: Do Some Fish Stuff
 
 ## Resources
 
