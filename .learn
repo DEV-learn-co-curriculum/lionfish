@@ -1,7 +1,5 @@
-BROKEN!
 tags:
-Let's break this learn file! 
   - tag1
 languages:
-  - language1409
-resources: 0000000000
+  - language
+resources: 0
